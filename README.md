@@ -1,3 +1,4 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mephi78&theme=moltack)
 # About me
 
 
@@ -9,6 +10,4 @@
  - several years of web development as freelancer and
  - 18 years of full employment as IT Service Manager.
 
-[![roadmap.sh](https://roadmap.sh/card/wide/670c1bf1791f57dd60aa2577?variant=dark)](https://roadmap.sh)
-
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/670c1bf1791f57dd60aa2577?variant=dark" height="160"></a> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mephi78&theme=moltack" height="160">
