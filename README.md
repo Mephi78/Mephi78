@@ -11,7 +11,7 @@
  - 18 years of full employment as IT Service Manager.
 
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/670c1bf1791f57dd60aa2577?variant=dark&1" height="160"></a> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mephi78&theme=moltack" height="160">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/670c1bf1791f57dd60aa2577?variant=dark&roadmaps=frontend%2Cbackend%2Cgit-github%2Cjavascript&1" height="160"></a> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mephi78&theme=moltack" height="160">
 
 ## 
 ![Discord](https://badgen.net/badge/Discord/Mephi78/cyan?icon=discord) ![Telegram](https://badgen.net/badge/Telegram/Mephi78/cyan?icon=telegram)
