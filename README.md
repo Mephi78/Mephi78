@@ -18,7 +18,7 @@
  ... 18 years of full employment as IT Service Manager.
 
 
-<a href="https://roadmap.sh">
+<a href="https://roadmap.sh/u/mephi">
 <picture height="160">
  <source media="(prefers-color-scheme: dark)" srcset="https://roadmap.sh/card/wide/670c1bf1791f57dd60aa2577?variant=dark&roadmaps=frontend%2Cbackend%2Cgit-github%2Cjavascript&1">
  <source media="(prefers-color-scheme: light)" srcset="https://roadmap.sh/card/wide/670c1bf1791f57dd60aa2577?variant=light&roadmaps=frontend%2Cbackend%2Cgit-github%2Cjavascript&1">
