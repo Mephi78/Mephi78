@@ -13,6 +13,7 @@
 
  ... over 30 years of autodidactic hands-on learning,
  <a href="https://codeberg.org/Mephi"><img src="codeberg-follow-200.png" align="right"></a>
+ 
  ... several years of web development as freelancer and
  
  ... 18 years of full employment as IT Service Manager.
