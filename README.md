@@ -35,5 +35,9 @@
 </picture>
 
 
-## 
-[![Discord](https://badgen.net/badge/Discord/Mephi78/cyan?icon=discord)](https://discord.com) [![Telegram](https://badgen.net/badge/Telegram/Mephi78/cyan?icon=telegram)](https://telegram.me/mephi78)
+##
+<div align="center">
+ 
+[![Matrix](https://badgen.net/badge/Matrix/mephi78/cyan?icon=matrix)](https://matrix.to/#/@mephi78:matrix.org) [![Discord](https://badgen.net/badge/Discord/Mephi78/cyan?icon=discord)](https://discord.com) [![Telegram](https://badgen.net/badge/Telegram/Mephi78/cyan?icon=telegram)](https://telegram.me/mephi78)
+
+</div>
