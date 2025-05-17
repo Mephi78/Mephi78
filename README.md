@@ -1,8 +1,12 @@
+<!--
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mephi78&theme=moltack">
  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mephi78&theme=vue">
  <img alt="displays github stats colored responsive to dark or light mode" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mephi78&theme=calm">
 </picture>
+-->
+
+<a href="https://codeberg.org/Mephi"><img src="codeberg-follow-200.png" align="right"></a>
 
 
 # About me
@@ -12,12 +16,11 @@
 👩🏻‍👧🏼‍👦🏻 Just your average mum of two dedicated to lifelong learning and expanding her IT skills accomplished through
 
  ... over 30 years of autodidactic hands-on learning,
- <a href="https://codeberg.org/Mephi"><img src="codeberg-follow-200.png" align="right"></a>
  
  ... several years of web development as freelancer and
  
  ... 18 years of full employment as IT Service Manager.
-
+<div align="center">
 
 <a href="https://roadmap.sh/u/mephi">
 <picture height="160">
@@ -36,7 +39,7 @@
 
 
 ##
-<div align="center">
+
  
 [![Matrix](https://badgen.net/badge/Matrix/mephi78/cyan?icon=matrix)](https://matrix.to/#/@mephi78:matrix.org) [![Discord](https://badgen.net/badge/Discord/Mephi78/cyan?icon=discord)](https://discord.com) [![Telegram](https://badgen.net/badge/Telegram/Mephi78/cyan?icon=telegram)](https://telegram.me/mephi78)
 
